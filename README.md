@@ -8,6 +8,15 @@ Business Management System is a comprehensive Java Spring Boot application desig
 
 Built using industry-standard technologies such as Spring Boot, Spring Data JPA, MySQL, and Thymeleaf, the project showcases end-to-end backend development skills, combining robust database management, clean architecture, and responsive UI rendering. This system serves as a practical example of full-stack backend development in Java, suitable for real-world business scenarios.
 
+## 📑 Table of Contents
+- [Features](#️-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Installation & Setup](#installation--setup-steps)
+- [Preview](#preview)
+- [Future Enhancements](#-future-enhancements)
+- [Author](#-author)
+
 ## 🛠️ Features
 
 1. *User Management* – Add, update, and delete user records
@@ -25,7 +34,7 @@ Built using industry-standard technologies such as Spring Boot, Spring Data JPA,
 3. *Database*: MySQL
 4. *Build Tool*: Maven
 
-<div>
+<div align="center">
 Java	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 Spring Boot	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 Thymeleaf	<img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/>
@@ -46,7 +55,9 @@ GitHub	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons
 
 *Step 1 — Clone the repository*
 
-$ git clone https://github.com/SuhasKamate/Business_Management_Project.git
+git clone https://github.com/AsiyaAnju/Business-Management-System.git
+
+cd Business-Management-System
 
 
 *Step 2 — Import into STS or Eclipse*
