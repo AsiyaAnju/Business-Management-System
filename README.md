@@ -106,9 +106,9 @@ Admin Panel
 3. Generate PDF invoices from orders.
 
 ## 👤 Author
--Asiya Anjum S
--GitHub: AsiyaAnju
--LinkedIn: https://www.linkedin.com/in/asiyaanjums
+- Asiya Anjum S
+- GitHub: AsiyaAnju
+- LinkedIn: https://www.linkedin.com/in/asiyaanjums
 
 ## 🔗 Project Link
 https://github.com/AsiyaAnju/Business-Management-System
